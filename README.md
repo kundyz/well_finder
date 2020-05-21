@@ -7,4 +7,5 @@ Task
 * Use supervised and/or unsupervised ML to create lithology models that will help to classify future oil wells based on lithology.
 
 Output
+
 ![logo](/images/testing_accuracy_score.png)
